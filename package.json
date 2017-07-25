@@ -1,0 +1,18 @@
+{
+  "name": "@blacksmithstudio/blockbase-aws",
+  "version": "0.0.1",
+  "description": "blockbase driver for AWS",
+  "main": "driver.js",
+  "scripts": {
+    "test": "mocha --harmony-async-await"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@bitbucket.org:blacksmithstudio/driver-aws.git"
+  },
+  "author": "Alexandre Pereira <alex@blacksmith.studio>",
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "^2.89.0"
+  }
+}
