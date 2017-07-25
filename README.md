@@ -2,7 +2,7 @@
 Compatible with Blockbase Framework
 
 ### Version
-0.0.1 alpha
+0.0.2 alpha
 
 ### Description
 Driver importing the [AWS Node SDK](http://docs.aws.amazon.com/AWSJavaScriptSDK/latest/) in Blockbase
@@ -21,6 +21,11 @@ aws_secret_access_key = YOUR_SECRET_KEY
 
 By default, you'll have one pair aws_access_key_id / aws_secret_access_key named `[default]`, but you can add as much as you want.
 
+
+Then install the driver
+```shell
+$ npm i --save @blacksmithstudio/blockbase-aws
+```
 
 If you use a key other than `[default]`, you can add it to your {env}.yml config file.
 ```yml
