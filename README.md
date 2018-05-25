@@ -2,7 +2,7 @@
 Compatible with Blockbase Framework
 
 ### Version
-0.0.2 alpha
+0.0.3 alpha
 
 ### Description
 Driver importing the [AWS Node SDK](http://docs.aws.amazon.com/AWSJavaScriptSDK/latest/) in Blockbase

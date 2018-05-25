@@ -1,6 +1,6 @@
 {
   "name": "@blacksmithstudio/blockbase-aws",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "blockbase driver for AWS",
   "main": "driver.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@bitbucket.org:blacksmithstudio/driver-aws.git"
+    "url": "git+ssh://git@github.com:blacksmithstudio/blockbase-aws.git"
   },
   "author": "Alexandre Pereira <alex@blacksmith.studio>",
   "license": "MIT",
