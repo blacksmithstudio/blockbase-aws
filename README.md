@@ -24,7 +24,7 @@ By default, you'll have one pair aws_access_key_id / aws_secret_access_key named
 
 Then install the driver
 ```shell
-$ npm i --save @blacksmithstudio/blockbase-aws
+$ npm i --save blockbase-aws
 ```
 
 If you use a key other than `[default]`, you can add it to your {env}.yml config file.
@@ -45,8 +45,8 @@ aws :
 
 License
 ----
-
-(Copyright) 2017 - Alexandre Pereira for Blacksmith S.A.S.
+(Licence [MIT](https://github.com/blacksmithstudio/blockbase-express/blob/master/LICENCE))
+Coded by [Blacksmith](https://www.blacksmith.studio)
 
 
 **Free Software, Hell Yeah!**

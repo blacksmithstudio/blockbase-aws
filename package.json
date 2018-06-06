@@ -1,10 +1,10 @@
 {
-  "name": "@blacksmithstudio/blockbase-aws",
+  "name": "blockbase-aws",
   "version": "0.0.3",
   "description": "blockbase driver for AWS",
   "main": "driver.js",
   "scripts": {
-    "test": "mocha --harmony-async-await"
+    "test": "mocha --exit"
   },
   "repository": {
     "type": "git",
